@@ -210,6 +210,7 @@ export default {
   flex-direction: row;
   flex-wrap: wrap;
   margin-top: 40px;
+  justify-content: space-between;
 }
 .ticker{
   margin: 10px;
